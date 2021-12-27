@@ -1,0 +1,45 @@
+@media (max-width: 952px) {
+  .mastdiv {
+    background-image: url("images/meditate.png");
+  }
+
+  #head {
+    font-size: 1.7em;
+  }
+
+  @media (max-width: 858px) {
+    .mastdiv {
+      background-image: url("images/meditate.png");
+    }
+
+    #head1 {
+      margin-top: auto;
+    }
+
+    #head {
+      font-size: 1.7em;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    #head {
+      font-size: 1.7em;
+    }
+
+    #head1 {
+      margin-top: auto;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    #head {
+      font-size: 1.7em;
+    }
+  }
+
+  @media screen and (max-width: 568px) {
+    #head {
+      font-size: 1.7em;
+    }
+  }
+}
